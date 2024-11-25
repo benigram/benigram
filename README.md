@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am Beni and I am a Data Analyst diving deeper into Data Science.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+
+
+Currently working as a Data Scientist
+Learning and sharing knowledge via teaching
+Connect with me on :
+
 <!--
 **benigram/benigram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
