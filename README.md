@@ -3,8 +3,6 @@
 ### 💡 About Me
 I am Beni and I am a Data Analyst diving deeper into Data Science.
 
-📊 Current Focus: Learning advanced techniques in machine learning, Python, and statistical modeling to transition into Data Science.
-
 ### 🤝🏽 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/benediktgramss/)
 
